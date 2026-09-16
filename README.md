@@ -37,8 +37,8 @@ python thingspeak_upload.py
 
 ## Limitations
 
-- [e.g. trained on a limited dataset; accuracy drops in low light]
-- [e.g. counting assumes a fixed camera angle]
+- trained on a limited dataset; accuracy drops in low light
+-  counting assumes a fixed camera angle
 
 ## Attribution
 
